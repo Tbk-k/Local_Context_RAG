@@ -84,5 +84,4 @@ MIT License - see LICENSE file for details
 
 ## Contact
 
-Your Name - [your@email.com](mailto:your@email.com)
-Project Link: [https://github.com/yourusername/pdf-chat-assistant](https://github.com/yourusername/pdf-chat-assistant)
+Tbk - [tabaka.karol@gmail.com](mailto:your@email.com)
